@@ -11,3 +11,5 @@ Este proyecto contiene un analizador léxico y sintáctico implementado con ANTL
 - `input/`: Ejemplos de entrada (correctos e incorrectos).
 
 # Ejecución
+Desde la terminal de git bush ejecutamos el comando "npm start", y se genera el arbol correcto y la tabla de lexemas y tokens, o se encuentra el error.
+![image](https://github.com/user-attachments/assets/e8587c6c-1872-4bc4-a9b4-22686689a095)
