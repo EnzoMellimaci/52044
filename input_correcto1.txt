@@ -1,0 +1,6 @@
+funcion main() {
+  leer(x);
+  y = 10;
+  escribir(x);
+  escribir(y);
+}
