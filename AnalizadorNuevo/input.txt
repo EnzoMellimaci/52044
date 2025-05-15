@@ -1,0 +1,6 @@
+funcion principal() {
+    leer(x);
+    y = 5;
+    escribir(x);
+    escribir(y);
+}
