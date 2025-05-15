@@ -1,4 +1,4 @@
-# Analizador Sintáctico e Intérprete
+# Analizador
 
 Este proyecto contiene un analizador léxico y sintáctico implementado con ANTLR4 y Node.js. Traduce una gramática EBNF simple a un intérprete básico en JavaScript.
 
