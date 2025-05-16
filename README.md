@@ -25,6 +25,6 @@ npm start
 - `index.js`: Script principal de ejecución.
 - `generated/`: Archivos generados por ANTLR4.
 - `CustomGramaticaVisitor.js`: Implementación del visitor con interpretación.
-- `gramatica.txt`: La gramática utilizada.
+- `gramatica.g4`: La gramática utilizada.
 - `input/`: Ejemplos de entrada (correctos e incorrectos).
 
