@@ -15,9 +15,9 @@ code .
 npm install antlr4
 2. Luego de eso, ejecuta el analizador con el comando: 
 npm start
-Se genera el arbol correcto y la tabla de lexemas y tokens, o se encuentra el error.
+3. Se genera el arbol correcto y la tabla de lexemas y tokens, o se encuentra el error.
 ![image](https://github.com/user-attachments/assets/cdec40ba-6730-45db-aca6-7e9f6c57db00)
-Luego de ejecutar se obtiene el resultado:
+4. Luego de ejecutar se obtiene el resultado:
 ![image](https://github.com/user-attachments/assets/631f001e-bd3d-4336-a149-729852f72051)
 
 # Estructura del Proyecto
