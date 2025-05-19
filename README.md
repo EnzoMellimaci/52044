@@ -5,19 +5,23 @@ Este proyecto contiene un analizador léxico y sintáctico implementado con ANTL
 # Instalación
 1. Clona este repositorio desde la terminal:
 git clone https://github.com/EnzoMellimaci/52044.git
-2. Cambia al directorio del proyecto:
+
+3. Cambia al directorio del proyecto:
 cd 52044/AnalizadorNuevo
-3. Para abrir el proyecto en VS Code escribe esto en la terminal:
+
+5. Para abrir el proyecto en VS Code escribe esto en la terminal:
 code .
 
 # Ejecución
 1. Desde de la terminal ejecuta el comando: 
 npm install antlr4
-2. Luego de eso, ejecuta el analizador con el comando: 
+
+3. Luego de eso, ejecuta el analizador con el comando: 
 npm start
-3. Se genera el arbol correcto y la tabla de lexemas y tokens, o se encuentra el error.
+
+5. Se genera el arbol correcto y la tabla de lexemas y tokens, o se encuentra el error.
 ![image](https://github.com/user-attachments/assets/0095775b-5315-4c09-91fa-30d7e732f182)
-4. Luego de ejecutar se obtiene el resultado:
+6. Luego de ejecutar se obtiene el resultado:
 ![image](https://github.com/user-attachments/assets/4153c89e-e3fe-47c2-8a0a-655d70ed7ece)
 
 # Estructura del Proyecto
