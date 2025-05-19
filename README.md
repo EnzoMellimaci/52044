@@ -18,7 +18,7 @@ cd 52044/AnalizadorNuevo
 code .
 ```
 # Ejecución
-1. Desde la terminal ejecuta este comando para permitir la ejecución de scripts:
+1. En caso de nunca haber ejecutado el comando npm (si ya haz ejecutado ese comando sigue por el paso 2), desde la terminal ejecuta este comando para permitir la ejecución de scripts:
 ```bash
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
