@@ -4,7 +4,6 @@ Este proyecto contiene un analizador léxico y sintáctico implementado con ANTL
 
 # Instalación
 1. Clona este repositorio desde la terminal:
-´´´bash
 git clone https://github.com/EnzoMellimaci/52044.git
 
 3. Cambia al directorio del proyecto:
